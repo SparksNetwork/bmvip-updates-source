@@ -5,7 +5,7 @@ image: http://s2.quickmeme.com/img/af/af2d7d5bc0b2b5aba34bdf648b5771171eac24f4e0
 ---
 > <span class='f3 f1-l'>Everyone should be able to answer the question: how did you make Burning Man?</span>
 
-In June of 2016, the Burning Man Project published a Request for Proposal for someone to come in and assist in revamping their culture of volunteerism.  This site is documenting that journey.
+In June of 2016, the Burning Man Project published a Request for Proposal for someone to come in and assist in revamping their culture of volunteerism.  This site documents that journey.
 
 <div class='db tc w-100 center'>
 <a href='/categories/Stakeholder-Updates' class='link dim f3 f2-l dib mh2 mh3-l' style='color: black; text-align: center;line-height:2em;'>Updates<br/><i class='fa fa-pencil-square-o' style='font-size:1.5em;'></i>
