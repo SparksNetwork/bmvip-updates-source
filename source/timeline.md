@@ -12,6 +12,7 @@ This timeline is updated with links to pertinent documents as they are published
   2. [Scope Week](#Scope-Week)
 2. [Research](#Research)
   1. [Narrative Request](#Narrative-Request)
+  2. [Followup Interviews](#Followup-Interviews)
 
 # Engagement
 
@@ -42,3 +43,13 @@ I groped by way of the Narrative Request, which was distributed via multiple cha
 
 * [Narrative Request Form](https://docs.google.com/forms/d/e/1FAIpQLScuMKkaSYOdYSFZp-OCHMKuf-pKK9a74fWCPQstf7f0JcUgJw/viewform)
 * [Select Narrative Request Responses](https://docs.google.com/document/d/1kRzZNfWBgf-97JP_1492yKqTouRuAGVSYk1_2Rwt3xc/edit?usp=sharing)
+
+## Followup Interviews
+
+There are three groups that stuck out during my initial scoping interviews: Department of Public Works, Gate-Perimeter-Exodus, and the Black Rock Rangers.  Each of those groups has developed extensive internal processes and tools, and it is utterly essential that whatever changes are made do not break what are already well-oiled machines.
+
+So far, I've managed to secure detailed followup interviews with [Logan Mirto (DPW Labor Manager)](https://www.linkedin.com/in/loganmirto/) and [Ira Wing (GPE Manager)](https://www.linkedin.com/in/irawing/).  I'm still trying to secure an interview with [Wilfredo Sánchez Vega (BRR Manager)](https://www.linkedin.com/in/wsanchez/).
+
+* [Logan Mirto Interview Notes](https://docs.google.com/document/d/1uAXKdgm57J15EwTUeA7vcEOy2palRamZnT2Z1z1fd4Y/edit?usp=sharing)
+* [Ira Wing Interview Notes](https://docs.google.com/document/d/1xN7OVZvQL4x-u7WwZQKzwqlVr2KmEsP7WyXJLuPf-_Y/edit?usp=sharing)
+
